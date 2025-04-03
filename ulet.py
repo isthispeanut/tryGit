@@ -20,8 +20,6 @@ plt.ylim(0, 70)
 plt.grid(axis='y', linestyle='--', alpha=0.7)
 plt.show()
 
-
-# haha
 # import matplotlib.pyplot as plt
 '''
 colors = ['Red', 'Green', 'Blue', 'Yellow', 'Orange']
