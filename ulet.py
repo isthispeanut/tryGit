@@ -1,6 +1,6 @@
 import matplotlib.pyplot as plt
 import pandas as pd
-
+print("si bob ay bading")
 colors = ['Red', 'Green', 'Blue', 'Yellow', 'Orange']
 students = [45, 15, 55, 50, 35]
 bar_colors = ['red', 'green', 'cyan', 'yellow', 'orange']
