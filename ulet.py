@@ -1,4 +1,5 @@
 import matplotlib.pyplot as plt
+import pandas as pd
 
 colors = ['Red', 'Green', 'Blue', 'Yellow', 'Orange']
 students = [45, 15, 55, 50, 35]
@@ -18,3 +19,4 @@ plt.ylim(0, 70)
 
 plt.grid(axis='y', linestyle='--', alpha=0.7)
 plt.show()
+
